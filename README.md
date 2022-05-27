@@ -22,6 +22,21 @@ Points to remember while testing the app
 2. After checking on the run box, wait for sometime for camera to open
 3. Wait for the model to analyze, and check for notifications in sidebar
 
+
+# Simulation
+1. Check on run and wait for the camera to open
+  ![run](https://user-images.githubusercontent.com/87335207/170731013-9645df39-fb6a-4b29-8db5-bfb6d29345e5.png)
+
+2. Direct the camera to the suspect's face
+   *  CHILD IS IN DATABASE OF LOST CHILDREN
+    ![victim](https://user-images.githubusercontent.com/87335207/170731343-142a2db2-f3f5-4788-ac53-67201ae4dca4.png)
+    
+    * CHILD IS NOT IN DATABASE OF LOST CHILDREN
+    ![not a victim](https://user-images.githubusercontent.com/87335207/170731456-38e3f12b-4fd1-4f20-8f75-12191e360648.png)
+
+ 3. Automatically updated excel sheet in backend
+    ![image](https://user-images.githubusercontent.com/87335207/170732192-8b5a4296-fdbe-412e-a5c3-138ea645be98.png)
+
 # Useful Links
 * Github repository: https://github.com/roejain/Face-Recognition
 * Video demo: 
