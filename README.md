@@ -23,5 +23,6 @@ Points to remember while testing the app
 3. Wait for the model to analyze, and check for notifications in sidebar
 
 # Useful Links
-Github repository: https://github.com/roejain/Face-Recognition
-Video demo: 
+* Github repository: https://github.com/roejain/Face-Recognition
+* Clone link : https://github.com/roejain/Face-Recognition.git
+* Video demo: 
