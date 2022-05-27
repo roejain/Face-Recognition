@@ -4,12 +4,15 @@
 This is a web-based application which identifies the victims of child trafficking.
 
 
-Modules used: 
-* opencv
-* numpy
-* face-recognition
-* streamlit
-* os
+# Modules required: 
+* opencv - pip install opencv-python
+* numpy - pip install numpy
+* face-recognition - pip install face_recognition
+* streamlit - pip install streamlit
+* os - pip install os
+* dlib - pip install dlib
+* python version used - 3.10.4
+* pip version used - 22.1.1
 
 
 How it works?
@@ -36,6 +39,7 @@ Points to remember while testing the app
 
  3. Automatically updated excel sheet in backend
     ![image](https://user-images.githubusercontent.com/87335207/170732192-8b5a4296-fdbe-412e-a5c3-138ea645be98.png)
+
 
 # Useful Links
 * Github repository: https://github.com/roejain/Face-Recognition
