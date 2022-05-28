@@ -43,4 +43,5 @@ Points to remember while testing the app
 
 # Useful Links
 * Github repository: https://github.com/roejain/Face-Recognition
-* Video demo: 
+* Video demo: https://drive.google.com/file/d/1uaDIZnqSGzvx5W6R18EQCpIJRiAPQtpv/view?usp=sharing
+* Link to resume: https://drive.google.com/file/d/1sV1S_PX6uWaKr5fV_U-MVrJkw9oOuK13/view?usp=sharing
