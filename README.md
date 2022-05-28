@@ -15,13 +15,13 @@ This is a web-based application which identifies the victims of child traffickin
 * pip version used - 22.1.1
 
 
-How it works?
+# How it works?
 * The database contains photographs of missing children and encodings of these faces are stored by the application.
 * If any person finds a child to be suspected as a victim of trafficking maybe on traffic lights selling newspapers etc, she/he can check easily using the application     and immediately report to the police.
 * If the application identifies the victim by name, it implies that the child has been reported missing and needs to be secured.
 
 Points to remember while testing the app
-1. Allow permissions for camera and mic
+1. Allow permissions for camera
 2. After checking on the run box, wait for sometime for camera to open
 3. Wait for the model to analyze, and check for notifications in sidebar
 
@@ -31,7 +31,7 @@ Points to remember while testing the app
   ![run](https://user-images.githubusercontent.com/87335207/170731013-9645df39-fb6a-4b29-8db5-bfb6d29345e5.png)
 
 2. Direct the camera to the suspect's face
-   *  CHILD IS IN DATABASE OF LOST CHILDREN
+    * CHILD IS IN DATABASE OF LOST CHILDREN
     ![victim](https://user-images.githubusercontent.com/87335207/170731343-142a2db2-f3f5-4788-ac53-67201ae4dca4.png)
     
     * CHILD IS NOT IN DATABASE OF LOST CHILDREN
